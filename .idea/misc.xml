@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/patel/AndroidProjects/myprojects/MVVMRetrofit/app/src/main/res/layout/s2_activity_main.xml" value="0.13333333333333333" />
+        <entry key="..\:/patel/AndroidProjects/myprojects/MVVMRetrofit/app/src/main/res/layout/s2_adapter_movie.xml" value="0.13333333333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectPlainTextFileTypeManager">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/mvvmretrofit/Json.kt" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK" />
+</project>
